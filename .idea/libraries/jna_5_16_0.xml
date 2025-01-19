@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jna-5.16.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jna-5.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jna-platform-5.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jnativehook-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
